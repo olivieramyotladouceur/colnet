@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    text-align: center;
+    max-width: 880px;
+}
+
+
+.block-item {
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 25%;
+}
+
+button {
+    width: 270px;
+    text-align: center;
+    background-color: #9fd044;
+    color: #ffffff;
+}
+
+.warning {
+    color: red;
+}
+
+.succes {
+    color: green;
+}
+
+.menu {
+    border: 2px solid green;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.menu a {
+    margin: 0px 35px;
+    color: #000;
+}
+
+.menu a:hover {
+    color:  #9fd044;
+    text-decoration: none;
+    
+}
